@@ -8,6 +8,7 @@ body{
 	height:51px;
 	background:url(../images/bg_top.png) repeat-x;
 	display:flex;
+	тт
 	justify-content:flex-end;
 	align-items:flex-end;
 }
